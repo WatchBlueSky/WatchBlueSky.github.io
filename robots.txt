@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://WatchBlueSky.github.io/sitemap.xml
+Sitemap: https://watchbluesky.github.io/sitemap.xml
